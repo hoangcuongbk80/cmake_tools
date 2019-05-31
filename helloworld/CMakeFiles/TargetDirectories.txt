@@ -1,0 +1,3 @@
+/home/hoang/Orebro-Study/CODE/cmake_tools/helloworld/CMakeFiles/rebuild_cache.dir
+/home/hoang/Orebro-Study/CODE/cmake_tools/helloworld/CMakeFiles/edit_cache.dir
+/home/hoang/Orebro-Study/CODE/cmake_tools/helloworld/CMakeFiles/hello.dir
